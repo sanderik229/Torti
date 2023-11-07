@@ -1,0 +1,15 @@
+/Users/levonbabaan/Projects/Тортики/Тортики/bin/Debug/net7.0/Тортики
+/Users/levonbabaan/Projects/Тортики/Тортики/bin/Debug/net7.0/Тортики.deps.json
+/Users/levonbabaan/Projects/Тортики/Тортики/bin/Debug/net7.0/Тортики.runtimeconfig.json
+/Users/levonbabaan/Projects/Тортики/Тортики/bin/Debug/net7.0/Тортики.dll
+/Users/levonbabaan/Projects/Тортики/Тортики/bin/Debug/net7.0/Тортики.pdb
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.AssemblyInfo.cs
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.csproj.CoreCompileInputs.cache
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.dll
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/refint/Тортики.dll
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.pdb
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/Тортики.genruntimeconfig.cache
+/Users/levonbabaan/Projects/Тортики/Тортики/obj/Debug/net7.0/ref/Тортики.dll
